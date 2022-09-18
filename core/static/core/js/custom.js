@@ -1,0 +1,1 @@
+const patient_delete_btn = document.getElementById("")
